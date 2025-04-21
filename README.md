@@ -1,4 +1,4 @@
-# 🎬 Churn Prediction para Plataforma de Streaming
+# 🎬 User Prediction para Plataforma de Streaming
 
 Este projeto tem como objetivo **prever o cancelamento de clientes (churn)** em uma plataforma de streaming, com base no histórico de uso, perfil do cliente e tipo de assinatura. A análise inclui desde a exploração dos dados até a modelagem com algoritmos de classificação.
 
@@ -76,5 +76,5 @@ Os dados utilizados são uma adaptação de um conjunto disponível no Kaggle:
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/victorbelle38/churn-streaming-model.git
+   git clone https://github.com/victorbelle38/User_Streaming.git
    cd churn-streaming-model
