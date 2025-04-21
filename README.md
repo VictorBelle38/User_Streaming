@@ -76,5 +76,5 @@ Os dados utilizados são uma adaptação de um conjunto disponível no Kaggle:
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/churn-streaming-model.git
+   git clone https://github.com/victorbelle38/churn-streaming-model.git
    cd churn-streaming-model
